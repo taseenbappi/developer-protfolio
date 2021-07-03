@@ -15,7 +15,7 @@ h1{
     text-align: justify;
 }
 
-section{
+.fexlible-container{
     display: flex;
 }
 .haf-width{
