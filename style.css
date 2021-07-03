@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.my-name{
+    color: orange;
+}
+.my-summary{
+    text-align: justify;
+}
+
+section{
+    display: flex;
+}
+.haf-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.haf-width img{
+    width: 80%;
+}
