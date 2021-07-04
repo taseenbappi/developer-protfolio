@@ -85,7 +85,8 @@ h1{
     padding: 15px;
     text-align: justify;
     margin: 20px;
-    width: auto;
+    width: 50%;
+    border-radius: 10px;
 }
 .exp-two{
     border-left-style: solid;
@@ -95,9 +96,11 @@ h1{
     padding: 15px;
     text-align: justify;
     margin: 20px;
-    width: auto;
+    width: 50%;
+    border-radius: 10px;
 }
 .exp-main{
     margin: 20px;
+    border-radius: 5px;
     
 }
