@@ -76,31 +76,36 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
     
+    
 }
 .exp-one{
-    border-left-style: solid;
+    border-left: 5px solid;
+    border-image: linear-gradient(salmon, tomato ) ;
+    border-image-slice: 1;
     border-width: 10px;
-    border-image: linear-gradient(45deg, #f07731, #ffffff) 1;
     box-shadow: 5px 10px 30px gray;
     padding: 15px;
     text-align: justify;
     margin: 20px;
-    width: 50%;
+    width: 40%;
     border-radius: 10px;
+    
 }
 .exp-two{
-    border-left-style: solid;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, Cyan) ;
+    border-image-slice: 1;
     border-width: 10px;
-    border-image: linear-gradient(45deg, rgb(0,143,104), rgb(250,224,66)) 1;
     box-shadow: 5px 10px 30px gray;
     padding: 15px;
     text-align: justify;
     margin: 20px;
-    width: 50%;
+    width: 40%;
     border-radius: 10px;
 }
 .exp-main{
     margin: 20px;
     border-radius: 5px;
+    margin-left: 50px;
     
 }
